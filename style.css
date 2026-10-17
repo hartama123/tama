@@ -1,0 +1,41 @@
+body{
+ font-family: Arial, Helvetica, sans-serif;
+ background-color: wheat;
+ margin:  20;
+ padding: 20px;
+}
+container{
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    background-color: wheat;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+img{
+    border-radius: 50%;
+}
+    p{
+        line-height:  1.3;
+    
+    }
+    li {
+        margin-bottom: 5px;
+    }
+    .motto{
+        text-align: center;
+        font-style: italic;
+        font-weight: bold;
+    
+    }
+    footer{
+        text-align: center;
+    }
+    
+
+
+
+
